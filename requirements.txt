@@ -4,5 +4,5 @@ matplotlib
 mne
 edfio
 keras
-tensorflow
+tensorflow-cpu.
 reportlab
