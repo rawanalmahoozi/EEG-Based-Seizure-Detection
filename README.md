@@ -8,7 +8,9 @@
 
 <p align="center">
   EEG Analysis & Specialist Review
-</p>### EEG Analysis & Specialist Review
+</p>
+
+### EEG Analysis & Specialist Review
 
 ## About the Project
 
