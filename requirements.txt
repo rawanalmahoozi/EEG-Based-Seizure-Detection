@@ -1,6 +1,8 @@
 streamlit
 numpy
-pandas
 matplotlib
 mne
-tensorflow-cpu
+edfio
+keras
+tensorflow
+reportlab
