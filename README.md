@@ -1,5 +1,14 @@
-#<img width="280" height="241" alt="brain_icon" src="https://github.com/user-attachments/assets/a255c068-4893-45b5-9372-a58c97a630c7" /> NeuroReview
-### EEG Analysis & Specialist Review
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/a255c068-4893-45b5-9372-a58c97a630c7"
+       width="55"
+       align="center"
+       alt="NeuroReview Logo">
+  NeuroReview
+</h1>
+
+<p align="center">
+  EEG Analysis & Specialist Review
+</p>### EEG Analysis & Specialist Review
 
 ## About the Project
 
