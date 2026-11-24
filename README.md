@@ -136,4 +136,4 @@ Together, these additions could help NeuroReview move beyond identifying potenti
 
 **Rawan Almahoozi**
 
-[LinkedIn](https://www.linkedin.com/in/rawan-almahoozi-b0a82a364)<img width="280" height="241" alt="brain_icon" src="https://github.com/user-attachments/assets/f33ecf03-e6cd-4b03-b1a5-dca626dcd8f2" />
+[LinkedIn](https://www.linkedin.com/in/rawan-almahoozi-b0a82a364)
