@@ -298,3 +298,8 @@ if st.session_state["page"] == "dashboard" and "probas" in st.session_state:
             r3.download_button("Download PDF", st.session_state[pdf_key], key="download_" + group["key"],
                                use_container_width=True, file_name=group["title"].replace(" ", "_") + "_report.pdf",
                                mime="application/pdf")
+
+    if os.path.exists(review_db_file):
+        with open(review_db_file, "rb") as f:
+            st.download_button("Download saved reviews (reviews.db)", f.read(), file_name="reviews.db",
+                               help="Keep a copy of the specialist reviews. They are stored on the server, which can erase them when it restarts.")
